@@ -604,218 +604,219 @@ STR_0599    :A compact roller coaster with individual cars and smooth twisting d
 STR_0600    :Powered mine trains career along a smooth and twisted track layout
 STR_0601    :
 STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
-STR_0603    :Guest {INT32}
-STR_0604    :Guest {INT32}
-STR_0605    :Guest {INT32}
-STR_0606    :Guest {INT32}
-STR_0607    :Guest {INT32}
-STR_0608    :Guest {INT32}
-STR_0609    :Guest {INT32}
-STR_0610    :Guest {INT32}
-STR_0611    :Guest {INT32}
-STR_0612    :Guest {INT32}
-STR_0613    :Guest {INT32}
-STR_0614    :Guest {INT32}
-STR_0615    :Guest {INT32}
-STR_0616    :Guest {INT32}
-STR_0617    :Guest {INT32}
-STR_0618    :Guest {INT32}
-STR_0619    :Guest {INT32}
-STR_0620    :Guest {INT32}
-STR_0621    :Guest {INT32}
-STR_0622    :Guest {INT32}
-STR_0623    :Guest {INT32}
-STR_0624    :Guest {INT32}
-STR_0625    :Guest {INT32}
-STR_0626    :Guest {INT32}
-STR_0627    :Guest {INT32}
-STR_0628    :Guest {INT32}
-STR_0629    :Guest {INT32}
-STR_0630    :Guest {INT32}
-STR_0631    :Guest {INT32}
-STR_0632    :Guest {INT32}
-STR_0633    :Guest {INT32}
-STR_0634    :Guest {INT32}
-STR_0635    :Guest {INT32}
-STR_0636    :Guest {INT32}
-STR_0637    :Guest {INT32}
-STR_0638    :Guest {INT32}
-STR_0639    :Guest {INT32}
-STR_0640    :Guest {INT32}
-STR_0641    :Guest {INT32}
-STR_0642    :Guest {INT32}
-STR_0643    :Guest {INT32}
-STR_0644    :Guest {INT32}
-STR_0645    :Guest {INT32}
-STR_0646    :Guest {INT32}
-STR_0647    :Guest {INT32}
-STR_0648    :Guest {INT32}
-STR_0649    :Guest {INT32}
-STR_0650    :Guest {INT32}
-STR_0651    :Guest {INT32}
-STR_0652    :Guest {INT32}
-STR_0653    :Guest {INT32}
-STR_0654    :Guest {INT32}
-STR_0655    :Guest {INT32}
-STR_0656    :Guest {INT32}
-STR_0657    :Guest {INT32}
-STR_0658    :Guest {INT32}
-STR_0659    :Guest {INT32}
-STR_0660    :Guest {INT32}
-STR_0661    :Guest {INT32}
-STR_0662    :Guest {INT32}
-STR_0663    :Guest {INT32}
-STR_0664    :Guest {INT32}
-STR_0665    :Guest {INT32}
-STR_0666    :Guest {INT32}
-STR_0667    :Guest {INT32}
-STR_0668    :Guest {INT32}
-STR_0669    :Guest {INT32}
-STR_0670    :Guest {INT32}
-STR_0671    :Guest {INT32}
-STR_0672    :Guest {INT32}
-STR_0673    :Guest {INT32}
-STR_0674    :Guest {INT32}
-STR_0675    :Guest {INT32}
-STR_0676    :Guest {INT32}
-STR_0677    :Guest {INT32}
-STR_0678    :Guest {INT32}
-STR_0679    :Guest {INT32}
-STR_0680    :Guest {INT32}
-STR_0681    :Guest {INT32}
-STR_0682    :Guest {INT32}
-STR_0683    :Guest {INT32}
-STR_0684    :Guest {INT32}
-STR_0685    :Guest {INT32}
-STR_0686    :Guest {INT32}
-STR_0687    :Guest {INT32}
-STR_0688    :Guest {INT32}
-STR_0689    :Guest {INT32}
-STR_0690    :Guest {INT32}
-STR_0691    :Guest {INT32}
-STR_0692    :Guest {INT32}
-STR_0693    :Guest {INT32}
-STR_0694    :Guest {INT32}
-STR_0695    :Guest {INT32}
-STR_0696    :Guest {INT32}
-STR_0697    :Guest {INT32}
-STR_0698    :Guest {INT32}
-STR_0699    :Guest {INT32}
-STR_0700    :Guest {INT32}
-STR_0701    :Guest {INT32}
-STR_0702    :Guest {INT32}
-STR_0703    :Guest {INT32}
-STR_0704    :Guest {INT32}
-STR_0705    :Guest {INT32}
-STR_0706    :Guest {INT32}
-STR_0707    :Guest {INT32}
-STR_0708    :Guest {INT32}
-STR_0709    :Guest {INT32}
-STR_0710    :Guest {INT32}
-STR_0711    :Guest {INT32}
-STR_0712    :Guest {INT32}
-STR_0713    :Guest {INT32}
-STR_0714    :Guest {INT32}
-STR_0715    :Guest {INT32}
-STR_0716    :Guest {INT32}
-STR_0717    :Guest {INT32}
-STR_0718    :Guest {INT32}
-STR_0719    :Guest {INT32}
-STR_0720    :Guest {INT32}
-STR_0721    :Guest {INT32}
-STR_0722    :Guest {INT32}
-STR_0723    :Guest {INT32}
-STR_0724    :Guest {INT32}
-STR_0725    :Guest {INT32}
-STR_0726    :Guest {INT32}
-STR_0727    :Guest {INT32}
-STR_0728    :Guest {INT32}
-STR_0729    :Guest {INT32}
-STR_0730    :Guest {INT32}
-STR_0731    :Guest {INT32}
-STR_0732    :Guest {INT32}
-STR_0733    :Guest {INT32}
-STR_0734    :Guest {INT32}
-STR_0735    :Guest {INT32}
-STR_0736    :Guest {INT32}
-STR_0737    :Guest {INT32}
-STR_0738    :Guest {INT32}
-STR_0739    :Guest {INT32}
-STR_0740    :Guest {INT32}
-STR_0741    :Guest {INT32}
-STR_0742    :Guest {INT32}
-STR_0743    :Guest {INT32}
-STR_0744    :Guest {INT32}
-STR_0745    :Guest {INT32}
-STR_0746    :Guest {INT32}
-STR_0747    :Guest {INT32}
-STR_0748    :Guest {INT32}
-STR_0749    :Guest {INT32}
-STR_0750    :Guest {INT32}
-STR_0751    :Guest {INT32}
-STR_0752    :Guest {INT32}
-STR_0753    :Guest {INT32}
-STR_0754    :Guest {INT32}
-STR_0755    :Guest {INT32}
-STR_0756    :Guest {INT32}
-STR_0757    :Guest {INT32}
-STR_0758    :Guest {INT32}
-STR_0759    :Guest {INT32}
-STR_0760    :Guest {INT32}
-STR_0761    :Guest {INT32}
-STR_0762    :Guest {INT32}
-STR_0763    :Guest {INT32}
-STR_0764    :Guest {INT32}
-STR_0765    :Guest {INT32}
-STR_0766    :Guest {INT32}
-STR_0767    :Guest {INT32}
-STR_0768    :Handyman {INT32}
-STR_0769    :Mechanic {INT32}
-STR_0770    :Security Guard {INT32}
+#
+STR_0603    :Gæst {INT32}
+STR_0604    :Gæst {INT32}
+STR_0605    :Gæst {INT32}
+STR_0606    :Gæst {INT32}
+STR_0607    :Gæst {INT32}
+STR_0608    :Gæst {INT32}
+STR_0609    :Gæst {INT32}
+STR_0610    :Gæst {INT32}
+STR_0611    :Gæst {INT32}
+STR_0612    :Gæst {INT32}
+STR_0613    :Gæst {INT32}
+STR_0614    :Gæst {INT32}
+STR_0615    :Gæst {INT32}
+STR_0616    :Gæst {INT32}
+STR_0617    :Gæst {INT32}
+STR_0618    :Gæst {INT32}
+STR_0619    :Gæst {INT32}
+STR_0620    :Gæst {INT32}
+STR_0621    :Gæst {INT32}
+STR_0622    :Gæst {INT32}
+STR_0623    :Gæst {INT32}
+STR_0624    :Gæst {INT32}
+STR_0625    :Gæst {INT32}
+STR_0626    :Gæst {INT32}
+STR_0627    :Gæst {INT32}
+STR_0628    :Gæst {INT32}
+STR_0629    :Gæst {INT32}
+STR_0630    :Gæst {INT32}
+STR_0631    :Gæst {INT32}
+STR_0632    :Gæst {INT32}
+STR_0633    :Gæst {INT32}
+STR_0634    :Gæst {INT32}
+STR_0635    :Gæst {INT32}
+STR_0636    :Gæst {INT32}
+STR_0637    :Gæst {INT32}
+STR_0638    :Gæst {INT32}
+STR_0639    :Gæst {INT32}
+STR_0640    :Gæst {INT32}
+STR_0641    :Gæst {INT32}
+STR_0642    :Gæst {INT32}
+STR_0643    :Gæst {INT32}
+STR_0644    :Gæst {INT32}
+STR_0645    :Gæst {INT32}
+STR_0646    :Gæst {INT32}
+STR_0647    :Gæst {INT32}
+STR_0648    :Gæst {INT32}
+STR_0649    :Gæst {INT32}
+STR_0650    :Gæst {INT32}
+STR_0651    :Gæst {INT32}
+STR_0652    :Gæst {INT32}
+STR_0653    :Gæst {INT32}
+STR_0654    :Gæst {INT32}
+STR_0655    :Gæst {INT32}
+STR_0656    :Gæst {INT32}
+STR_0657    :Gæst {INT32}
+STR_0658    :Gæst {INT32}
+STR_0659    :Gæst {INT32}
+STR_0660    :Gæst {INT32}
+STR_0661    :Gæst {INT32}
+STR_0662    :Gæst {INT32}
+STR_0663    :Gæst {INT32}
+STR_0664    :Gæst {INT32}
+STR_0665    :Gæst {INT32}
+STR_0666    :Gæst {INT32}
+STR_0667    :Gæst {INT32}
+STR_0668    :Gæst {INT32}
+STR_0669    :Gæst {INT32}
+STR_0670    :Gæst {INT32}
+STR_0671    :Gæst {INT32}
+STR_0672    :Gæst {INT32}
+STR_0673    :Gæst {INT32}
+STR_0674    :Gæst {INT32}
+STR_0675    :Gæst {INT32}
+STR_0676    :Gæst {INT32}
+STR_0677    :Gæst {INT32}
+STR_0678    :Gæst {INT32}
+STR_0679    :Gæst {INT32}
+STR_0680    :Gæst {INT32}
+STR_0681    :Gæst {INT32}
+STR_0682    :Gæst {INT32}
+STR_0683    :Gæst {INT32}
+STR_0684    :Gæst {INT32}
+STR_0685    :Gæst {INT32}
+STR_0686    :Gæst {INT32}
+STR_0687    :Gæst {INT32}
+STR_0688    :Gæst {INT32}
+STR_0689    :Gæst {INT32}
+STR_0690    :Gæst {INT32}
+STR_0691    :Gæst {INT32}
+STR_0692    :Gæst {INT32}
+STR_0693    :Gæst {INT32}
+STR_0694    :Gæst {INT32}
+STR_0695    :Gæst {INT32}
+STR_0696    :Gæst {INT32}
+STR_0697    :Gæst {INT32}
+STR_0698    :Gæst {INT32}
+STR_0699    :Gæst {INT32}
+STR_0700    :Gæst {INT32}
+STR_0701    :Gæst {INT32}
+STR_0702    :Gæst {INT32}
+STR_0703    :Gæst {INT32}
+STR_0704    :Gæst {INT32}
+STR_0705    :Gæst {INT32}
+STR_0706    :Gæst {INT32}
+STR_0707    :Gæst {INT32}
+STR_0708    :Gæst {INT32}
+STR_0709    :Gæst {INT32}
+STR_0710    :Gæst {INT32}
+STR_0711    :Gæst {INT32}
+STR_0712    :Gæst {INT32}
+STR_0713    :Gæst {INT32}
+STR_0714    :Gæst {INT32}
+STR_0715    :Gæst {INT32}
+STR_0716    :Gæst {INT32}
+STR_0717    :Gæst {INT32}
+STR_0718    :Gæst {INT32}
+STR_0719    :Gæst {INT32}
+STR_0720    :Gæst {INT32}
+STR_0721    :Gæst {INT32}
+STR_0722    :Gæst {INT32}
+STR_0723    :Gæst {INT32}
+STR_0724    :Gæst {INT32}
+STR_0725    :Gæst {INT32}
+STR_0726    :Gæst {INT32}
+STR_0727    :Gæst {INT32}
+STR_0728    :Gæst {INT32}
+STR_0729    :Gæst {INT32}
+STR_0730    :Gæst {INT32}
+STR_0731    :Gæst {INT32}
+STR_0732    :Gæst {INT32}
+STR_0733    :Gæst {INT32}
+STR_0734    :Gæst {INT32}
+STR_0735    :Gæst {INT32}
+STR_0736    :Gæst {INT32}
+STR_0737    :Gæst {INT32}
+STR_0738    :Gæst {INT32}
+STR_0739    :Gæst {INT32}
+STR_0740    :Gæst {INT32}
+STR_0741    :Gæst {INT32}
+STR_0742    :Gæst {INT32}
+STR_0743    :Gæst {INT32}
+STR_0744    :Gæst {INT32}
+STR_0745    :Gæst {INT32}
+STR_0746    :Gæst {INT32}
+STR_0747    :Gæst {INT32}
+STR_0748    :Gæst {INT32}
+STR_0749    :Gæst {INT32}
+STR_0750    :Gæst {INT32}
+STR_0751    :Gæst {INT32}
+STR_0752    :Gæst {INT32}
+STR_0753    :Gæst {INT32}
+STR_0754    :Gæst {INT32}
+STR_0755    :Gæst {INT32}
+STR_0756    :Gæst {INT32}
+STR_0757    :Gæst {INT32}
+STR_0758    :Gæst {INT32}
+STR_0759    :Gæst {INT32}
+STR_0760    :Gæst {INT32}
+STR_0761    :Gæst {INT32}
+STR_0762    :Gæst {INT32}
+STR_0763    :Gæst {INT32}
+STR_0764    :Gæst {INT32}
+STR_0765    :Gæst {INT32}
+STR_0766    :Gæst {INT32}
+STR_0767    :Gæst {INT32}
+STR_0768    :Handymand {INT32}
+STR_0769    :Mekaniker {INT32}
+STR_0770    :Sikkerhedsvagt {INT32}
 STR_0771    :Entertainer {INT32}
-STR_0772    :Unnamed park{POP16}{POP16}
-STR_0773    :Unnamed park{POP16}{POP16}
-STR_0774    :Unnamed park{POP16}{POP16}
-STR_0775    :Unnamed park{POP16}{POP16}
-STR_0776    :Unnamed park{POP16}{POP16}
-STR_0777    :Unnamed park{POP16}{POP16}
-STR_0778    :Sign
-STR_0779    :1st
-STR_0780    :2nd
-STR_0781    :3rd
-STR_0782    :4th
-STR_0783    :5th
-STR_0784    :6th
-STR_0785    :7th
-STR_0786    :8th
-STR_0787    :9th
-STR_0788    :10th
-STR_0789    :11th
-STR_0790    :12th
-STR_0791    :13th
-STR_0792    :14th
-STR_0793    :15th
-STR_0794    :16th
-STR_0795    :17th
-STR_0796    :18th
-STR_0797    :19th
-STR_0798    :20th
-STR_0799    :21st
-STR_0800    :22nd
-STR_0801    :23rd
-STR_0802    :24th
-STR_0803    :25th
-STR_0804    :26th
-STR_0805    :27th
-STR_0806    :28th
-STR_0807    :29th
-STR_0808    :30th
-STR_0809    :31st
+STR_0772    :Unavngiven park{POP16}{POP16}
+STR_0773    :Unavngiven park{POP16}{POP16}
+STR_0774    :Unavngiven park{POP16}{POP16}
+STR_0775    :Unavngiven park{POP16}{POP16}
+STR_0776    :Unavngiven park{POP16}{POP16}
+STR_0777    :Unavngiven park{POP16}{POP16}
+STR_0778    :Skilt
+STR_0779    :1.
+STR_0780    :2.
+STR_0781    :3.
+STR_0782    :4.
+STR_0783    :5.
+STR_0784    :6.
+STR_0785    :7.
+STR_0786    :8.
+STR_0787    :9.
+STR_0788    :10.
+STR_0789    :11.
+STR_0790    :12.
+STR_0791    :13.
+STR_0792    :14.
+STR_0793    :15.
+STR_0794    :16.
+STR_0795    :17.
+STR_0796    :18.
+STR_0797    :19.
+STR_0798    :20.
+STR_0799    :21.
+STR_0800    :22.
+STR_0801    :23.
+STR_0802    :24.
+STR_0803    :25.
+STR_0804    :26.
+STR_0805    :27.
+STR_0806    :28.
+STR_0807    :29.
+STR_0808    :30.
+STR_0809    :31.
 STR_0810    :Jan
 STR_0811    :Feb
 STR_0812    :Mar
 STR_0813    :Apr
-STR_0814    :May
+STR_0814    :Maj
 STR_0815    :Jun
 STR_0816    :Jul
 STR_0817    :Aug
@@ -823,22 +824,22 @@ STR_0818    :Sep
 STR_0819    :Oct
 STR_0820    :Nov
 STR_0821    :Dec
-STR_0822    :Unable to access graphic data file
-STR_0823    :Missing or inaccessible data file
+STR_0822    :Kunne ikke opnå adgang til grafikdatafil
+STR_0823    :Manglende eller utilgængelig data fil
 STR_0824    :{BLACK}{CROSS}
-STR_0825    :Chosen name in use already
-STR_0826    :Too many names defined
-STR_0827    :Not enough cash - requires {CURRENCY2DP}
-STR_0828    :{SMALLFONT}{BLACK}Close window
-STR_0829    :{SMALLFONT}{BLACK}Window title - Drag this to move window
-STR_0830    :{SMALLFONT}{BLACK}Zoom view in
-STR_0831    :{SMALLFONT}{BLACK}Zoom view out
-STR_0832    :{SMALLFONT}{BLACK}Rotate view 90{DEGREE} clockwise
-STR_0833    :{SMALLFONT}{BLACK}Pause game
-STR_0834    :{SMALLFONT}{BLACK}Disk and game options
-STR_0835    :Game initialization failed
-STR_0836    :Unable to start game in a minimized state
-STR_0837    :Unable to initialize graphics system
+STR_0825    :Valgt navn allerede i brug
+STR_0826    :For mange navne defineret
+STR_0827    :Ikke nok penge - kræver {CURRENCY2DP}
+STR_0828    :{SMALLFONT}{BLACK}Luk vindue
+STR_0829    :{SMALLFONT}{BLACK}Vinduetitel - Træk i denne for at flytte vinduet
+STR_0830    :{SMALLFONT}{BLACK}Zoom udsyn ind
+STR_0831    :{SMALLFONT}{BLACK}Zoom udsyn ud
+STR_0832    :{SMALLFONT}{BLACK}Rotér udsynet 90{DEGREE} med uret
+STR_0833    :{SMALLFONT}{BLACK}Pause spillet
+STR_0834    :{SMALLFONT}{BLACK}Disk- og spilindstillinger
+STR_0835    :Spilinitialisering fejlede
+STR_0836    :Kunne ikke starte spillet i minimeret tilstand
+STR_0837    :Kunne ikke initialisere grafiksystemet
 STR_0838    :<not used anymore>
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
@@ -849,17 +850,17 @@ STR_0843    :<not used anymore>
 STR_0844    :<not used anymore>
 STR_0845    :<not used anymore>
 STR_0846    :<not used anymore>
-STR_0847    :About 'OpenRCT2'
+STR_0847    :Om 'OpenRCT2'
 STR_0848    :RollerCoaster Tycoon 2
 STR_0849    :{WINDOW_COLOUR_2}Version 2.01.028
 STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, all rights reserved
-STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
-STR_0852    :{WINDOW_COLOUR_2}Graphics by Simon Foster
-STR_0853    :{WINDOW_COLOUR_2}Sound and music by Allister Brimble
-STR_0854    :{WINDOW_COLOUR_2}Additional sounds recorded by David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
-STR_0856    :{WINDOW_COLOUR_2}Thanks to:
-STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
+STR_0851    :{WINDOW_COLOUR_2}Designet og programmeret af Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}Grafik af Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}Lyd og musik af Allister Brimble
+STR_0854    :{WINDOW_COLOUR_2}Yderligere lyde optaget af David Ellis
+STR_0855    :{WINDOW_COLOUR_2}Representeret af Jacqui Lyons ved Marjacq Ltd.
+STR_0856    :{WINDOW_COLOUR_2}Tak til:
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth og John Wardley
 STR_0858    :{WINDOW_COLOUR_2}
 STR_0859    :{WINDOW_COLOUR_2}
 STR_0860    :{WINDOW_COLOUR_2}
@@ -879,63 +880,64 @@ STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}{DOWN}
-STR_0877    :Too low !
-STR_0878    :Too high !
-STR_0879    :Can't lower land here...
-STR_0880    :Can't raise land here...
-STR_0881    :Object in the way
-STR_0882    :Load Game
-STR_0883    :Save Game
-STR_0884    :Load Landscape
-STR_0885    :Save Landscape
-STR_0886    :Quit Game
-STR_0887    :Quit Scenario Editor
-STR_0888    :Quit Roller Coaster Designer
-STR_0889    :Quit Track Designs Manager
+STR_0877    :For lavt !
+STR_0878    :For højt !
+STR_0879    :Kan ikke sænke land her...
+STR_0880    :Kan ikke hæve land her...
+STR_0881    :Objekt i vejen
+STR_0882    :Indlæs Spil
+STR_0883    :Gem Spil
+STR_0884    :Indlæs Landskab
+STR_0885    :Gem Landskab
+STR_0886    :Forlad Spil
+STR_0887    :Forlad Scenarieredigering
+STR_0888    :Forlad Rutsjebanedesigner
+STR_0889    :Forlad Banedesignstyring
 STR_0890    :SCR{COMMA16}.BMP
-STR_0891    :Screenshot
-STR_0892    :Screenshot saved to disk as '{STRINGID}'
-STR_0893    :Screenshot failed !
-STR_0894    :Landscape data area full !
-STR_0895    :Can't build partly above and partly below ground
-STR_0896    :{POP16}{POP16}{STRINGID} Construction
-STR_0897    :Direction
-STR_0898    :{SMALLFONT}{BLACK}Left-hand curve
-STR_0899    :{SMALLFONT}{BLACK}Right-hand curve
-STR_0900    :{SMALLFONT}{BLACK}Left-hand curve (small radius)
-STR_0901    :{SMALLFONT}{BLACK}Right-hand curve (small radius)
-STR_0902    :{SMALLFONT}{BLACK}Left-hand curve (very small radius)
-STR_0903    :{SMALLFONT}{BLACK}Right-hand curve (very small radius)
-STR_0904    :{SMALLFONT}{BLACK}Left-hand curve (large radius)
-STR_0905    :{SMALLFONT}{BLACK}Right-hand curve (large radius)
-STR_0906    :{SMALLFONT}{BLACK}Straight
-STR_0907    :Slope
-STR_0908    :Roll/Banking
-STR_0909    :Seat Rot.
-STR_0910    :{SMALLFONT}{BLACK}Roll for left-hand curve
-STR_0911    :{SMALLFONT}{BLACK}Roll for right-hand curve
-STR_0912    :{SMALLFONT}{BLACK}No roll
-STR_0913    :{SMALLFONT}{BLACK}Move to previous section
-STR_0914    :{SMALLFONT}{BLACK}Move to next section
-STR_0915    :{SMALLFONT}{BLACK}Construct the selected section
-STR_0916    :{SMALLFONT}{BLACK}Remove the highlighted section
-STR_0917    :{SMALLFONT}{BLACK}Vertical drop
-STR_0918    :{SMALLFONT}{BLACK}Steep slope down
-STR_0919    :{SMALLFONT}{BLACK}Slope down
-STR_0920    :{SMALLFONT}{BLACK}Level
-STR_0921    :{SMALLFONT}{BLACK}Slope up
-STR_0922    :{SMALLFONT}{BLACK}Steep slope up
-STR_0923    :{SMALLFONT}{BLACK}Vertical rise
-STR_0924    :{SMALLFONT}{BLACK}Helix down
-STR_0925    :{SMALLFONT}{BLACK}Helix up
-STR_0926    :Can't remove this...
-STR_0927    :Can't construct this here...
-STR_0928    :{SMALLFONT}{BLACK}Chain lift, to pull cars up slopes
-STR_0929    :'S' Bend (left)
-STR_0930    :'S' Bend (right)
-STR_0931    :Vertical Loop (left)
-STR_0932    :Vertical Loop (right)
-STR_0933    :Raise or lower land first
+STR_0891    :Skærmbillede
+STR_0892    :Skærmbillede gemt til disk som '{STRINGID}'
+STR_0893    :Skærmbillede fejlede !
+STR_0894    :Landskabsdataområde fuldt !
+STR_0895    :Kan ikke bygge delvist over og delvist under jorden
+STR_0896    :{POP16}{POP16}{STRINGID} Konstruktion
+STR_0897    :Retning
+STR_0898    :{SMALLFONT}{BLACK}Venstresving
+STR_0899    :{SMALLFONT}{BLACK}Højresving
+STR_0900    :{SMALLFONT}{BLACK}Venstresving (lille radius)
+STR_0901    :{SMALLFONT}{BLACK}Højresving (lille radius)
+STR_0902    :{SMALLFONT}{BLACK}Venstresving (meget lille radius)
+STR_0903    :{SMALLFONT}{BLACK}Højresving (meget lille radius)
+STR_0904    :{SMALLFONT}{BLACK}Venstresving (stor radius)
+STR_0905    :{SMALLFONT}{BLACK}Højresving (stor radius)
+STR_0906    :{SMALLFONT}{BLACK}Ligeud
+STR_0907    :Skråning
+STR_0908    :Rul/Hældning
+STR_0909    :Sæde Rot.
+STR_0910    :{SMALLFONT}{BLACK}Rul til venstresving
+STR_0911    :{SMALLFONT}{BLACK}Rul til højresving
+STR_0912    :{SMALLFONT}{BLACK}Intet rul
+STR_0913    :{SMALLFONT}{BLACK}Flyt til tidligere sektion
+STR_0914    :{SMALLFONT}{BLACK}Flyt til næste sektiontion
+STR_0915    :{SMALLFONT}{BLACK}Konstruér den valgte sektion
+STR_0916    :{SMALLFONT}{BLACK}Fjern den valgte sektion
+STR_0917    :{SMALLFONT}{BLACK}Vertikalt drop
+STR_0918    :{SMALLFONT}{BLACK}Stejl hældning nedad
+STR_0919    :{SMALLFONT}{BLACK}Hældning nedad
+STR_0920    :{SMALLFONT}{BLACK}Plan
+STR_0921    :{SMALLFONT}{BLACK}Hældning opad
+STR_0922    :{SMALLFONT}{BLACK}Stejl hældning opad
+STR_0923    :{SMALLFONT}{BLACK}Vertikal stigning
+STR_0924    :{SMALLFONT}{BLACK}Nedadgående helix
+STR_0925    :{SMALLFONT}{BLACK}Opadgående helix
+STR_0926    :Kan ikke fjerne dette...
+STR_0927    :Kan ikke bygge dette her...
+STR_0928    :{SMALLFONT}{BLACK}Kædeløft, til at flytte vogne opad stigninger
+STR_0929    :Chikane (venstre)
+STR_0930    :Chikane (højre)
+STR_0931    :Vertikalt Loop (venstre)
+STR_0932    :Vertikalt Loop (højre)
+STR_0933    :Hæv eller sænk land først
+#
 STR_0934    :Ride entrance in the way
 STR_0935    :Ride exit in the way
 STR_0936    :Park entrance in the way
